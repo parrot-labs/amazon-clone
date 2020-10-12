@@ -1,4 +1,4 @@
-![alt text](https://pasteboard.co/JveoPod.png)
+<img src="https://pasteboard.co/JveoPod.png" />
 
 ### `npm run build` fails to minify
 
